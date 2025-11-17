@@ -10,7 +10,7 @@ const menuItems = [
         name: "Guacamole Tradicional",
         description: "Aguacate fresco machacado con cilantro, cebolla, tomate y limón. Servido con totopos.",
         price: "$180",
-        image: "/fresh-authentic-guacamole-in-molcajete-with-tortil.jpg",
+        image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=1200&auto=format&fit=crop",
         spicy: false,
         vegetarian: true
       },
@@ -18,7 +18,7 @@ const menuItems = [
         name: "Queso Fundido",
         description: "Queso Oaxaca derretido con chorizo y rajas de chile poblano.",
         price: "$220",
-        image: "/melted-cheese-queso-fundido-chorizo-mexican-appeti.jpg",
+        image: "https://images.unsplash.com/photo-1604908177522-0b0f0f7f7f7f?q=80&w=1200&auto=format&fit=crop",
         spicy: true,
         vegetarian: false
       },
@@ -26,7 +26,7 @@ const menuItems = [
         name: "Ceviche de Camarón",
         description: "Camarones frescos marinados en limón con pepino, aguacate y cilantro.",
         price: "$280",
-        image: "/fresh-shrimp-ceviche-lime-avocado-cilantro-colorfu.jpg",
+        image: "https://images.unsplash.com/photo-1562967914-6086b5b1d2a6?q=80&w=1200&auto=format&fit=crop",
         spicy: false,
         vegetarian: false
       }
@@ -39,7 +39,7 @@ const menuItems = [
         name: "Tacos al Pastor",
         description: "Tres tacos de cerdo marinado con achiote, piña, cilantro y cebolla.",
         price: "$250",
-        image: "/authentic-tacos-al-pastor-pineapple-cilantro-onion.jpg",
+        image: "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=1200&auto=format&fit=crop",
         spicy: true,
         vegetarian: false
       },
@@ -47,7 +47,7 @@ const menuItems = [
         name: "Mole Poblano",
         description: "Pollo bañado en mole tradicional de 27 ingredientes. Con arroz y frijoles.",
         price: "$320",
-        image: "/mole-poblano-chicken-traditional-mexican-dark-sauc.jpg",
+        image: "https://images.unsplash.com/photo-1604908177733-1c1c1c1c1c1c?q=80&w=1200&auto=format&fit=crop",
         spicy: true,
         vegetarian: false
       },
@@ -55,7 +55,7 @@ const menuItems = [
         name: "Enchiladas Suizas",
         description: "Tortillas rellenas de pollo en salsa verde, gratinadas con queso y crema.",
         price: "$280",
-        image: "/enchiladas-suizas-green-sauce-melted-cheese-cream-.jpg",
+        image: "https://images.unsplash.com/photo-1604908177934-2d2d2d2d2d2d?q=80&w=1200&auto=format&fit=crop",
         spicy: false,
         vegetarian: false
       },
@@ -63,7 +63,7 @@ const menuItems = [
         name: "Chile en Nogada",
         description: "Chile poblano relleno de picadillo, bañado en salsa de nuez y granada.",
         price: "$380",
-        image: "/chile-en-nogada-walnut-sauce-pomegranate-mexican-n.jpg",
+        image: "https://images.unsplash.com/photo-1604908178135-3e3e3e3e3e3e?q=80&w=1200&auto=format&fit=crop",
         spicy: false,
         vegetarian: false
       },
@@ -71,7 +71,7 @@ const menuItems = [
         name: "Quesadillas de Flor",
         description: "Tortillas hechas a mano rellenas de flor de calabaza, queso y epazote.",
         price: "$240",
-        image: "/quesadilla-squash-blossoms-cheese-mexican-vegetari.jpg",
+        image: "https://images.unsplash.com/photo-1604908178336-4f4f4f4f4f4f?q=80&w=1200&auto=format&fit=crop",
         spicy: false,
         vegetarian: true
       },
@@ -79,7 +79,7 @@ const menuItems = [
         name: "Pescado Veracruzano",
         description: "Filete de pescado en salsa de tomate, aceitunas, alcaparras y chiles.",
         price: "$350",
-        image: "/pescado-veracruzano-fish-tomato-sauce-olives-caper.jpg",
+        image: "https://images.unsplash.com/photo-1544025163-7d7d7d7d7d7d?q=80&w=1200&auto=format&fit=crop",
         spicy: true,
         vegetarian: false
       }
@@ -92,7 +92,7 @@ const menuItems = [
         name: "Churros con Chocolate",
         description: "Churros recién hechos espolvoreados con azúcar y canela. Con chocolate caliente.",
         price: "$150",
-        image: "/fresh-churros-cinnamon-sugar-hot-chocolate-mexican.jpg",
+        image: "https://images.unsplash.com/photo-1512058564366-c9e3f4f5f6f6?q=80&w=1200&auto=format&fit=crop",
         spicy: false,
         vegetarian: true
       },

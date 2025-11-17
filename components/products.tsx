@@ -90,7 +90,7 @@ const productCategories = [
         name: "Pan Francés (Artesanal)",
         description: "Pan francés recién horneado todas las mañanas. Crujiente y esponjoso.",
         price: "$80",
-        image: "/fresh-french-bread-baguette-bakery-uruguayan-artisa.jpg",
+        image: "/fresh-bread-bakery-uruguayan-groceries-artisan-b.jpg",
         fresh: true
       },
       {

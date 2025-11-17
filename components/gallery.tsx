@@ -1,27 +1,27 @@
 export function Gallery() {
   const images = [
     {
-      src: "/uruguayan-grocery-store-interior-shelves-products-lo.jpg",
+      src: "/fresh-vegetables-produce-local-uruguayan-market-c.jpg",
       alt: "Interior del Almacén"
     },
     {
-      src: "/fresh-produce-section-colorful-fruits-vegetables-gro.jpg",
+      src: "/fresh-bread-bakery-uruguayan-groceries-artisan-b.jpg",
       alt: "Sección de Frutas y Verduras"
     },
     {
-      src: "/deli-counter-uruguayan-store-fiambre-cheese-display-.jpg",
+      src: "/uruguayan-deli-meats-cheese-fiambre-display-loca.jpg",
       alt: "Mostrador de Fiambres"
     },
     {
-      src: "/fresh-bread-display-bakery-section-uruguayan-store-a.jpg",
+      src: "/fresh-bread-bakery-uruguayan-groceries-artisan-b.jpg",
       alt: "Panadería Fresca"
     },
     {
-      src: "/dairy-products-refrigerated-section-milk-cheese-yogur.jpg",
+      src: "/friendly-uruguayan-store-owner-serving-customers.jpg",
       alt: "Sección de Lácteos"
     },
     {
-      src: "/grocery-shopping-basket-fresh-products-uruguayan-foo.jpg",
+      src: "/uruguayan-grocery-store-colorful-fresh-products-fr.jpg",
       alt: "Productos Seleccionados"
     }
   ]
