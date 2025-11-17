@@ -97,7 +97,7 @@ const productCategories = [
         name: "Manteca La Blanqueada",
         description: "Manteca cremosa uruguaya, ideal para untar y cocinar.",
         price: "$180/250g",
-        image: "/butter-dairy-spread-uruguayan-yellow-creamy-product.jpg",
+        image: "/uruguayan-colonia-cheese-creamy-fresh-dairy-local-p.jpg",
         fresh: true
       }
     ]
@@ -109,21 +109,21 @@ const productCategories = [
         name: "Arroz Saman",
         description: "Arroz blanco de grano largo, marca líder uruguaya. Bolsa de 1kg.",
         price: "$95",
-        image: "/white-rice-bag-dry-grain-uruguayan-pantry-staple-fo.jpg",
+        image: "/cooked-ham-sliced-deli-meat-uruguayan-premium-qual.jpg",
         fresh: false
       },
       {
         name: "Fideos Barilla (500g)",
         description: "Pasta italiana de calidad premium. Variedad de formatos disponibles.",
         price: "$120/500g",
-        image: "/italian-pasta-dry-noodles-spaghetti-pantry-food-pa.jpg",
+        image: "/italian-salami-sliced-cured-meat-uruguayan-deli-de.jpg",
         fresh: false
       },
       {
         name: "Aceite Cocinero 900ml",
         description: "Aceite vegetal uruguayo para cocinar. Botella de 900ml.",
         price: "$180",
-        image: "/cooking-oil-bottle-vegetable-oil-uruguayan-kitchen-.jpg",
+        image: "/fresh-whole-milk-bottle-dairy-uruguayan-conaprole-w.jpg",
         fresh: false
       }
     ]
