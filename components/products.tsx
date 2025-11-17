@@ -87,17 +87,17 @@ const productCategories = [
         fresh: true
       },
       {
-        name: "Pan Francés",
+        name: "Pan Francés (Artesanal)",
         description: "Pan francés recién horneado todas las mañanas. Crujiente y esponjoso.",
         price: "$80",
-        image: "/placeholder.svg",
+        image: "https://placehold.co/800x600?text=Pan+Frances",
         fresh: true
       },
       {
         name: "Manteca La Blanqueada",
         description: "Manteca cremosa uruguaya, ideal para untar y cocinar.",
         price: "$180/250g",
-        image: "/placeholder.svg",
+        image: "https://placehold.co/800x600?text=Manteca+La+Blanqueada",
         fresh: true
       }
     ]
@@ -109,21 +109,21 @@ const productCategories = [
         name: "Arroz Saman",
         description: "Arroz blanco de grano largo, marca líder uruguaya. Bolsa de 1kg.",
         price: "$95",
-        image: "/placeholder.svg",
+        image: "https://placehold.co/800x600?text=Arroz+Saman",
         fresh: false
       },
       {
-        name: "Fideos Barilla",
+        name: "Fideos Barilla (500g)",
         description: "Pasta italiana de calidad premium. Variedad de formatos disponibles.",
         price: "$120/500g",
-        image: "/placeholder.svg",
+        image: "https://placehold.co/800x600?text=Fideos+Barilla",
         fresh: false
       },
       {
-        name: "Aceite Cocinero",
+        name: "Aceite Cocinero 900ml",
         description: "Aceite vegetal uruguayo para cocinar. Botella de 900ml.",
         price: "$180",
-        image: "/placeholder.svg",
+        image: "https://placehold.co/800x600?text=Aceite+Cocinero",
         fresh: false
       }
     ]
